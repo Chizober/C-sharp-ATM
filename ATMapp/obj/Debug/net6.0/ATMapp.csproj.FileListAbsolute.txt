@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ATMapp\bin\Debug\net6.0\ATMapp.exe
+C:\Users\user\Desktop\ATMapp\bin\Debug\net6.0\ATMapp.deps.json
+C:\Users\user\Desktop\ATMapp\bin\Debug\net6.0\ATMapp.runtimeconfig.json
+C:\Users\user\Desktop\ATMapp\bin\Debug\net6.0\ATMapp.dll
+C:\Users\user\Desktop\ATMapp\bin\Debug\net6.0\ref\ATMapp.dll
+C:\Users\user\Desktop\ATMapp\bin\Debug\net6.0\ATMapp.pdb
+C:\Users\user\Desktop\ATMapp\obj\Debug\net6.0\ATMapp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ATMapp\obj\Debug\net6.0\ATMapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ATMapp\obj\Debug\net6.0\ATMapp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ATMapp\obj\Debug\net6.0\ATMapp.AssemblyInfo.cs
+C:\Users\user\Desktop\ATMapp\obj\Debug\net6.0\ATMapp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ATMapp\obj\Debug\net6.0\ATMapp.dll
+C:\Users\user\Desktop\ATMapp\obj\Debug\net6.0\ref\ATMapp.dll
+C:\Users\user\Desktop\ATMapp\obj\Debug\net6.0\ATMapp.pdb
+C:\Users\user\Desktop\ATMapp\obj\Debug\net6.0\ATMapp.genruntimeconfig.cache
